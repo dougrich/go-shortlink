@@ -1,3 +1,5 @@
-# template-go-pkg
+# go-shortlink
 
-This is a template for quickly scaffolding a new golang package
+[![build](https://img.shields.io/github/workflow/status/dougrich/go-shortlink/build?style=flat-square)](https://github.com/dougrich/go-shortlink/actions/workflows/build.yml)
+
+go-shortlink is a go package
